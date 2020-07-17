@@ -5,3 +5,6 @@
  Here are some preivews of the app.
  
  <img src="README/Citi_SS.png" width="40%" height="40%">  <img src="README/MSFT_SS.png" width="40.5%" height="40.5%">
+
+# API Used
+* AlphaVantage
